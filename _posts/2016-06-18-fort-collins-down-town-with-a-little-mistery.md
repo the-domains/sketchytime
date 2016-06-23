@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-06-18T03:13:33.636Z'
+datePublished: '2016-06-23T23:28:01.708Z'
+sourcePath: _posts/2016-06-18-fort-collins-down-town-with-a-little-mistery.md
 author: []
-dateModified: '2016-06-18T03:12:26.714Z'
+dateModified: '2016-06-23T23:26:27.705Z'
 title: ''
 description: Fort Collins down town - with a little mistery
 starred: false
-sourcePath: _posts/2016-06-18-fort-collins-down-town-with-a-little-mistery.md
 inFeed: true
 hasPage: true
 inNav: false
