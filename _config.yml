@@ -1,19 +1,4 @@
-name: sketchytime
-favicon: null
-layout_spectrum: 0.11226800130680203
-typography_spectrum: 0.19122260063886642
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#73603D'
@@ -23,6 +8,11 @@ color:
     - '#0D0D0D'
   brandStrength: 0.5090727747883648
   lightness: 0.47149330424144864
-  saturation: 0.9483170215971768
   rhythmicContrast: 0.75
+  saturation: 0.9483170215971768
+cta: {}
+layout_spectrum: 0.11226800130680203
+name: sketchytime
+opengraph: {}
 purpose: []
+typography_spectrum: 0.28125
