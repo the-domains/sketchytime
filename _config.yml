@@ -1,4 +1,4 @@
-analytics: {}
+typography_spectrum: 0.28125
 color:
   brandColors:
     - '#73603D'
@@ -10,9 +10,13 @@ color:
   lightness: 0.4714933042414486
   rhythmicContrast: 0.75
   saturation: 0.9483170215971768
-cta: {}
-layout_spectrum: 0
-name: sketchytime
 opengraph: {}
+layout_spectrum: 0
+analytics: {}
+name: sketchytime
+cta: {}
+navigation:
+  - name: Ausgust Show
+    url: 'https://thegrid.ai/sketchytime-aug-show/'
+    type: external
 purpose: []
-typography_spectrum: 0.28125
