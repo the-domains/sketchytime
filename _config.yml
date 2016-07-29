@@ -13,10 +13,14 @@ color:
 opengraph: {}
 layout_spectrum: 0
 analytics: {}
+author:
+  email: stevegwusa@gmail.com
+  name: Steve GW
 name: sketchytime
 cta: {}
 navigation:
   - name: August Show
     url: 'https://thegrid.ai/sketchytime-aug-show/'
     type: external
+title: “Painting is just another way of keeping a diary.” ― Pablo Picasso
 purpose: []
