@@ -4,8 +4,15 @@
         <description><![CDATA[“Painting is just another way of keeping a diary.” ― Pablo Picasso]]></description>
         <link>http://sketchytime.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jul 2016 23:31:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2016 23:31:52 GMT</lastBuildDate>
         <atom:link href="http://sketchytime.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Upper Shoreline ridge ]]></title>
+            <description><![CDATA[<article><h1>Upper Shoreline ridge </h1><p>Some people see a Giraffe in the picture ! </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7321de10-1f23-415d-9b80-29524915476d.jpg"></article>]]></description>
+            <link>http://sketchytime.com/upper-shoreline-ridge-some-people-see-a-giraffe-in-the-pic/index.html</link>
+            <guid isPermaLink="false">a6325ed9-ea68-428e-829b-c88f400728ab</guid>
+            <pubDate>Sun, 31 Jul 2016 23:31:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Repeat Boutique Fort Collins, back entrance.]]></title>
             <description><![CDATA[<article><h1>Repeat Boutique Fort Collins, back entrance.</h1><p>I sat out back and thought the doors looked pretty  cool with the glass work, vines and the odd iron chair. Decided to provide a little spooky addition!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/596bae51-e722-4b98-8c26-7e91f446ab95.jpg"></article>]]></description>
@@ -78,13 +85,6 @@ around us.">]]></description>
             <link>http://sketchytime.com/0ab2ff6c-c0ae-4fbf-b541-00b6ae7a7ffc/index.html</link>
             <guid isPermaLink="false">0ab2ff6c-c0ae-4fbf-b541-00b6ae7a7ffc</guid>
             <pubDate>Thu, 23 Jun 2016 23:27:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7321de10-1f23-415d-9b80-29524915476d.jpg" alt="Upper Shoreline ridge - some people see a Giraffe in the picture ! ">]]></description>
-            <link>http://sketchytime.com/upper-shoreline-ridge-some-people-see-a-giraffe-in-the-pic/index.html</link>
-            <guid isPermaLink="false">a6325ed9-ea68-428e-829b-c88f400728ab</guid>
-            <pubDate>Thu, 23 Jun 2016 23:27:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
