@@ -25,6 +25,9 @@ navigation:
   - name: Pastels
     url: 'http://thegrid.ai/sketchytime-pastels'
     type: external
+  - name: About
+    url: thegrid.ai/stevegw-about
+    type: external
 title: Art  by Steve GW
 description: To obverse is to Grow
 purpose: []
