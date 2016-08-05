@@ -19,11 +19,11 @@ author:
 name: Steve GW Today
 cta: {}
 navigation:
-  - name: August Show
-    url: 'https://thegrid.ai/sketchytime-aug-show/'
-    type: external
   - name: Pastels
     url: 'http://thegrid.ai/sketchytime-pastels'
+    type: external
+  - name: August Show
+    url: 'https://thegrid.ai/sketchytime-aug-show/'
     type: external
   - name: About
     url: 'http://thegrid.ai/stevegw-about/'
