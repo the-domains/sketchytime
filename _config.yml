@@ -28,6 +28,9 @@ navigation:
   - name: About
     url: 'http://thegrid.ai/stevegw-about/'
     type: external
+  - name: Game Art
+    url: 'http://thegrid.ai/stevegw-game-art'
+    type: external
 title: Art  by Steve GW
 description: To obverse is to Grow
 purpose: []
