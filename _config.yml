@@ -22,9 +22,6 @@ navigation:
   - name: Pastels
     url: 'http://thegrid.ai/sketchytime-pastels'
     type: external
-  - name: Game Art
-    url: 'http://stevegw-game-art'
-    type: external
   - name: Aug Art Show
     url: 'http://thegrid.ai/stevegw-aug-artshow'
     type: external
