@@ -1,4 +1,5 @@
-typography_spectrum: 0.27898420859128237
+layout_spectrum: 0.06457111262716353
+typography_spectrum: 0.6241984702646732
 color:
   brandColors:
     - '#DC3522'
@@ -11,7 +12,6 @@ color:
   rhythmicContrast: 0.26289014238864183
   saturation: 0.24055635510012507
 opengraph: {}
-layout_spectrum: 0.5452834938187152
 analytics: {}
 author:
   email: stevegwusa@gmail.com
