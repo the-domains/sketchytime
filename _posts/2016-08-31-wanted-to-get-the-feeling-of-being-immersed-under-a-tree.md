@@ -1,16 +1,16 @@
 ---
-at__type: Article
-at__context: 'http://schema.org'
-title: ''
-dateModified: '2016-08-31T04:24:22.776Z'
-publisher: {}
-author: []
-inFeed: true
-description: Wanted to get the feeling of being immersed  under a tree
-via: {}
-datePublished: '2016-08-31T04:24:27.628Z'
-starred: false
+datePublished: '2016-09-01T03:26:49.453Z'
 sourcePath: _posts/2016-08-31-wanted-to-get-the-feeling-of-being-immersed-under-a-tree.md
+inFeed: true
+author: []
+at__type: Article
+via: {}
+dateModified: '2016-09-01T03:26:49.037Z'
+title: ''
+publisher: {}
+at__context: 'http://schema.org'
+description: Wanted to get the feeling of being immersed under a tree
+starred: false
 _type: Blurb
 
 ---
