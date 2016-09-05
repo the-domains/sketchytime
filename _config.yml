@@ -1,5 +1,12 @@
+name: Steve GW Today
 layout_spectrum: 0.019203792326152325
 typography_spectrum: 0.3487208364531398
+cta: {}
+analytics:
+  facebook: ''
+  google: ''
+  twitter: ''
+opengraph: {}
 color:
   brandColors:
     - '#450003'
@@ -9,15 +16,13 @@ color:
     - '#FF1D23'
   brandStrength: 0.24798112316057086
   lightness: 0.005521420622244477
-  rhythmicContrast: 0.10317498096264899
   saturation: 0.38509206427261233
-opengraph: {}
-analytics: {}
+  rhythmicContrast: 0.10317498096264899
+purpose: []
+title: Art  by Steve GW
 author:
-  email: stevegwusa@gmail.com
   name: Steve GW
-name: Steve GW Today
-cta: {}
+  email: stevegwusa@gmail.com
 navigation:
   - name: Pastels
     url: 'http://thegrid.ai/sketchytime-pastels'
@@ -34,6 +39,3 @@ navigation:
   - name: About
     url: 'http://thegrid.ai/stevegw-about/'
     type: external
-title: Art  by Steve GW
-description: To obverse is to Grow
-purpose: []
