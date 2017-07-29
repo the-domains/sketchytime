@@ -30,7 +30,7 @@ navigation:
     url: 'http://thegrid.ai/stevegw-human-form'
     type: external
   - name: Aug Art Show
-    url: 'http://thegrid.ai/stevegw-aug-artshow'
+    url: 'https://thegrid.ai/augustshow'
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd369eba-0ef6-4f02-870b-65e75a986db8.ico
