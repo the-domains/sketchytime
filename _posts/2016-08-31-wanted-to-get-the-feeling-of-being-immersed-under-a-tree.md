@@ -1,19 +1,22 @@
 ---
-datePublished: '2016-09-01T03:26:49.453Z'
-sourcePath: _posts/2016-08-31-wanted-to-get-the-feeling-of-being-immersed-under-a-tree.md
-inFeed: true
-author: []
-at__type: Article
-via: {}
-dateModified: '2016-09-01T03:26:49.037Z'
 title: ''
+datePublished: '2017-08-06T14:28:15.175Z'
+dateModified: '2017-08-06T14:28:13.373Z'
 publisher: {}
-at__context: 'http://schema.org'
+author: []
+inFeed: true
+hasPage: true
 description: Wanted to get the feeling of being immersed under a tree
+via: {}
 starred: false
-_type: Blurb
+datePublishedOriginal: '2016-09-01T03:26:49.453Z'
+sourcePath: _posts/2016-08-31-wanted-to-get-the-feeling-of-being-immersed-under-a-tree.md
+url: wanted-to-get-the-feeling-of-being-immersed-under-a-tree/index.html
+_type: Article
 
 ---
-![Under Cover](https://the-grid-user-content.s3-us-west-2.amazonaws.com/24777b1e-819a-4b4e-9d5e-da8c1c45f682.png)
+> Pastel paint is such an expressive medium, fast , bright and unforgiving.
+
+![Pastel painting - location university flower garden, across from Wild boar cafe](https://the-grid-user-content.s3-us-west-2.amazonaws.com/24777b1e-819a-4b4e-9d5e-da8c1c45f682.png)
 
 Wanted to get the feeling of being immersed under a tree
