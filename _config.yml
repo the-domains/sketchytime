@@ -1,4 +1,3 @@
-layout_spectrum: 0.9051563462302421
 typography_spectrum: 0.9046461705201407
 color:
   brandColors:
@@ -13,6 +12,7 @@ color:
   rhythmicContrast: 0.1294457828545814
 github: true
 opengraph: {}
+layout_spectrum: 0.9051563462302421
 analytics:
   facebook: ''
   google: ''
@@ -26,6 +26,9 @@ navigation:
   - name: Game Art
     url: 'http://thegrid.ai/stevegw-game-art'
     type: external
+  - name: 2017 August Show
+    url: 'https://thegrid.ai/augustshow/?cache=no'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd369eba-0ef6-4f02-870b-65e75a986db8.ico
 title: Art  by Steve GW
@@ -38,19 +41,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8a6c0c5-5899-4d43-8a89-9f3d97aa904a.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -62,19 +65,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/149f2830-0eb7-4e65-881a-513559da01c0.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
